@@ -1,0 +1,47 @@
+
+  /* Main.css */
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+
+  
+  .table-container {
+   
+    margin-top: 10%;
+    width: 50%;
+  }
+  
+  table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+
+  }
+  
+  th, td {
+   
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  button {
+    margin-left: 5px;
+  }
+  
+
+  .form-container {
+    width: 50%;
+    margin-top: 10%;
+  }
+  .error {
+    color: brown;
+  }
